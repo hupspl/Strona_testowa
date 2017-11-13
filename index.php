@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>2</title>
-	<?php print'jakis tekst php';?>
+	<?php echo 'jakis tekst php';?>
 </head>
 <body>
 	
